@@ -1,0 +1,8 @@
+{
+  "dataset_path": "examples/customer_churn_sample.csv",
+  "problem_statement": "Predict customer churn within 30 days and explain major factors.",
+  "target_column": "churn",
+  "user_expertise_level": "beginner",
+  "max_search_trials": 12,
+  "random_state": 42
+}
